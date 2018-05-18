@@ -1,0 +1,13 @@
+Update-Help -verbose -force
+Update-FormatData -verbose -force
+Update-TypeData -verbose -force
+Update-ConfigurationErrorCount -verbose -force
+Update-ConfigurationDocumentRef -verbose -force
+ValidateUpdate-ConfigurationData -verbose -force
+Update-LocalConfigManager -verbose -force
+Update-DependsOn -verbose -force
+Update-ModuleVersion -verbose -force
+Update-Script -verbose -force
+Update-ScriptFileInfo -verbose -force
+Update-ModuleManifest -verbose -force
+Update-Module -verbose -force
